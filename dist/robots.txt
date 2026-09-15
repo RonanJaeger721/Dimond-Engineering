@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dimond-engineering-harare.sites.openai.com/sitemap.xml
