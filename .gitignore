@@ -3,3 +3,6 @@
 *.tar.gz
 work/
 design-system/
+
+.vercel
+.env*
