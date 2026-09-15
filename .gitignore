@@ -1,0 +1,5 @@
+.vercel/
+.sites-runtime/
+*.tar.gz
+work/
+design-system/
